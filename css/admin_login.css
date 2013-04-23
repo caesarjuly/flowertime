@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+	body{
+	font-size:14px;
+	color:#555555;
+	}
+	body, ul, dl, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset {
+    margin: 0;
+    padding: 0;
+	}
+	a{
+    color: #2366A8;
+    text-decoration: none;
+	}
+	.logintb{
+	width:600px;
+	margin: 120px auto 0;
+	text-align:left;
+	}
+	.login{
+	background: url("../images/bg_login.gif") no-repeat scroll right 50% transparent;
+    height: 150px;
+    padding-right: 30px;
+    width: 250px;
+	}
+	.logintitle {
+    clear: left;
+    color: #666666;
+    float: left;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 180%;
+    width: 60px;
+	margin-top:10px;
+	}
+	.loginform {
+    float: left;
+    font-size: 14px;
+    line-height: 180%;
+    width: 160px;
+	margin-top:10px;
+	}
+	.txt {
+    margin-top: 2px;
+    width: 160px;
+	}
+	.loginnofloat {
+    clear: both;
+	}
+	.btn {
+    margin-left: 60px;
+	margin-top:5px;
+	}
+	.studioname{
+	font-size:16px;
+	}
+	.logo{
+	float:left;
+	}
+	.footer{
+	margin: 250px auto 0;
+	width:600px;
+	text-align:center;
+	}
+	.header{
+	}
+	h1{
+	background: url("../images/login_title.gif") no-repeat scroll 0 0 transparent;
+    height: 50px;
+    margin-bottom: 10px;
+    text-indent: -9999px;
+    width: 262px;
+	}
+

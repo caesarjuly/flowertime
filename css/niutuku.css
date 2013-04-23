@@ -1,0 +1,21 @@
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,img,dl,dt,dd,table,th,td,blockquote,fieldset,div,strong,label,em{margin:0;padding:0;border:0;}
+ul,ol,li{list-style:none;}
+input,button{margin:0;font-size:12px;vertical-align:middle;}
+
+.clearfloat{height:0;font-size:1px;clear:both;line-height:0;}
+
+a{color:#333;text-decoration:none;}
+a:hover{color:#ef9b11; text-decoration:underline;}
+.mytab{ width:560px; margin:20px auto;}
+.n1 {FONT-SIZE: 12px; COLOR: #572c06;}
+#001 {
+	CLEAR: both; BACKGROUND-POSITION: center top; FLOAT: none; BACKGROUND-IMAGE: url(../images/bg.jpg); WIDTH: 100%; BACKGROUND-REPEAT: no-repeat; HEIGHT: 700px
+}
+.new001 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #850b00; FONT-FAMILY: ""
+}
+.new001 A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #850b00; FONT-FAMILY: ""; TEXT-DECORATION: none
+}
+.box {border: #333 1px solid; WIDTH: 200px; background: #fff; font-size:12px; padding:5px;  line-height:18px; text-align:left;}
