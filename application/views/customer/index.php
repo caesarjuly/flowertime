@@ -173,7 +173,7 @@
 		</div>
 			<div class="address">
 		  	<img  src="<?php echo base_url();?>img/01-HOME/18.png" alt="" />
-			<a href="http://map.baidu.com/" target="_blank"><img  style="margin-left:30px;" src="<?php echo base_url();?>img/01-HOME/15.png" alt="" /></a>
+			<a href="http://shop64456327.taobao.com/" target="_blank"><img  style="margin-left:30px;" src="<?php echo base_url();?>img/01-HOME/15.png" alt="" /></a>
 
 			</div>
 		</div>

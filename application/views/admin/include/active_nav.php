@@ -17,14 +17,14 @@
 		<li>
 			<?php echo anchor('admin/Admin_series','套系管理')?>
 		</li>
-		<li>
+		<!--<li>
 			<?php echo anchor('admin/Admin_market','超市分类管理')?>
 		</li>
 		<li>
 			<?php $market_id = $this->Market_model->get_first_id();
 			?>
 			<?php echo anchor('admin/Admin_market_work/index/' . $market_id,'超市内容管理')?>
-		</li>
+		</li>-->
 		<?php $this->load->view('admin/include/nav.php'); ?>
 		<span id="show_text">欢迎您来到动态信息维护页面!</span>
 	</div>

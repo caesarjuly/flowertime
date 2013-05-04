@@ -27,7 +27,7 @@
 		<?php $this->load->view('customer/include/contact')?>
 		<div id="center">
 			<div id="serieslist">
-			 <div style="margin-bottom:30px;">
+			 <!--<div style="margin-bottom:30px;">
 				 <div class="seriesname">
 					自选超市
 					<img src="<?php echo base_url();?>img/xiexian.png" alt="" />
@@ -42,7 +42,7 @@
 				<?php }}?>
 					</div>
 					<div class="clear"></div>
-			</div>
+			</div>-->
 			<?php if(isset($contents) && count($contents))
 		{
 			 $i = "A";
